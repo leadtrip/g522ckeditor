@@ -1,0 +1,1 @@
+Grails 5 project that makes use of a custom port of the ckeditor plugin.
